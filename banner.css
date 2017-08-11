@@ -1,0 +1,19 @@
+.banner img{
+	position: relative;
+	width:100%;
+	max-height: 80vh;
+}
+.banner h2 { 
+   position: absolute; 
+   top: 40%; 
+   left: 0; 
+   width: 100%; 
+}
+.banner h2 span { 
+   color: white; 
+   font: bold 24px/45px Helvetica, Sans-Serif; 
+   letter-spacing: -1px;  
+   background: rgb(0, 0, 0);
+   background: rgba(0, 0, 0, 0.7);
+   padding: 1%; 
+}
